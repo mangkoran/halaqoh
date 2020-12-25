@@ -18,19 +18,19 @@
 7. Penutup - MC
 
 ## Kultum
-- [] 10 Sahabat yang dijamin masuk Surga
-- [] Syukur
-- [] Keutaman salam
-- [] Menjauhi tempat haram
-- [] Keutamaan adzan
-- [] Keutamaan solat jamaah
-- [] Keutamman solat sunnah
-- [] Keutamaan tilawah
-- [] Keutamaan khatam quran
-- [] 5 kisah taubat
+- [ ] 10 Sahabat yang dijamin masuk Surga
+- [ ] Syukur
+- [ ] Keutaman salam
+- [ ] Menjauhi tempat haram
+- [ ] Keutamaan adzan
+- [ ] Keutamaan solat jamaah
+- [ ] Keutamman solat sunnah
+- [ ] Keutamaan tilawah
+- [ ] Keutamaan khatam quran
+- [ ] 5 kisah taubat
 
 ## Schedule
 | Date | MC   | Kultum | Hadits | Subs |
 |------|------|--------|--------|------|
-| 1/1  | Baim | Afiq   | Fadhil  | Fiko |
-| 1/8  | Afiq | Fadhil  | Fiko   | Tebe |
+| 1/1  | Baim | Afiq   | Fadhil | Fiko |
+| 1/8  | Afiq | Fadhil | Fiko   | Tebe |
