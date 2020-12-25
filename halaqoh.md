@@ -1,8 +1,8 @@
 # Halaqoh Ust Sulkhan
 
 ## Members
-1. Baim
-2. Afiq
+1. Baim - Ketua
+2. Afiq - Sekretaris
 3. Fadil
 4. Fiko
 5. Tebe
