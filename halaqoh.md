@@ -32,5 +32,5 @@
 ## Schedule
 | Date | MC   | Kultum | Hadits | Subs |
 |------|------|--------|--------|------|
-| 1/1  | Baim | Afiq   | Fadil  | Fiko |
-| 1/8  | Afiq | Fadil  | Fiko   | Tebe |
+| 1/1  | Baim | Afiq   | Fadhil  | Fiko |
+| 1/8  | Afiq | Fadhil  | Fiko   | Tebe |
