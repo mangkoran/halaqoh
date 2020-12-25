@@ -1,11 +1,11 @@
 # Halaqoh Ust Sulkhan
 
 ## Members
-1. Baim - Ketua
-2. Afiq - Sekretaris
-3. Fadil
-4. Fiko
-5. Tebe
+1. Muhammad Faris Ibrahim (Baim) - Ketua
+2. Afiq Nazrie Rabbani - Sekretaris
+3. Fadhillah Rahmat Khairani
+4. Muhammad Rofiqurrahman (Fiko)
+5. Tubagus Fauzan (Tebe)
 
 ## Rundown
 0. Pembukaan - MC
