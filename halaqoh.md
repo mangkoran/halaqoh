@@ -19,16 +19,16 @@
 7. Penutup - MC
 
 ## Kultum
-- [ ] 10 Sahabat yang dijamin masuk Surga
-- [ ] Syukur
-- [ ] Keutaman salam
-- [ ] Menjauhi tempat haram
-- [ ] Keutamaan adzan
-- [ ] Keutamaan solat jamaah
-- [ ] Keutamman solat sunnah
-- [ ] Keutamaan tilawah
-- [ ] Keutamaan khatam quran
-- [ ] 5 kisah taubat
+- [ ] 10 Sahabat yang Dijamin Masuk Surga
+- [ ] Bersyukur
+- [ ] Keutaman Salam
+- [ ] Menjauhi Tempat Haram
+- [ ] Keutamaan Adzan
+- [ ] Keutamaan Solat Jamaah
+- [ ] Keutamman Solat Sunnah
+- [ ] Keutamaan Tilawah
+- [ ] Keutamaan Khatam Quran
+- [ ] 5 Kisah Taubat
 
 ## Schedule
 | Date | MC   | Kultum | Hadits | Subs |
