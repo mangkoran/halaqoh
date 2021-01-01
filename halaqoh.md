@@ -6,6 +6,7 @@
 3. **Fadhil**lah Rahmat Khairani
 4. Muhammad Rofiqurrahman **(Fiko)**
 5. Tubagus Fauzan **(Tebe)**
+6. Muhammad **Rafif** Azhari
 
 ## Rundown
 0. Pembukaan - MC
