@@ -19,7 +19,7 @@
 8. Penutup - MC
 
 ## Kultum
-- [ ] 10 Sahabat yang Dijamin Masuk Surga
+- [x] 10 Sahabat yang Dijamin Masuk Surga - 1/1
 - [ ] Bersyukur
 - [ ] Keutaman Salam
 - [ ] Menjauhi Tempat Haram
@@ -37,7 +37,7 @@
 | 1/8  | Afiq | Fadhil | Fiko   | Tebe |
 
 ## Log
-| Date | Tilawah | Kultum | Hadits | Materi | Note |
-|------|---------|--------|--------|--------|------|
-| 1/1  | Al Baqoroh 282 | :heavy_check_mark: | Hadits 1 | Kebutuhan Manusia Terhadap Rasul | - |
-| 1/8  |  |  |  |  |  |
+| Date | Tilawah | Hadits | Materi | Note |
+|------|---------|--------|--------|--------|
+| 1/1  | Al Baqoroh 282 | Hadits 1 | Kebutuhan Manusia Terhadap Rasul | - |
+| 1/8  |  |  |  |  |
