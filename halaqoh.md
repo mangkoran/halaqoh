@@ -35,3 +35,9 @@
 |------|------|--------|--------|------|
 | 1/1  | Baim | Afiq   | Fadhil | Fiko |
 | 1/8  | Afiq | Fadhil | Fiko   | Tebe |
+
+## Log
+| Date | Tilawah | Kultum | Hadits | Materi | Note |
+|------|---------|--------|--------|--------|------|
+| 1/1  | Al Baqoroh 282 | :heavy_check_mark: | Hadits 1 | Kebutuhan Manusia Terhadap Rasul | - |
+| 1/8  |  |  |  |  |  |
