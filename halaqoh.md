@@ -9,14 +9,14 @@
 6. Muhammad **Rafif** Azhari
 
 ## Rundown
-0. Pembukaan - MC
-1. Quran
-2. Kultum - Kultum
-3. Hadits Arbain - Hadits
-4. Materi Murobbi
-5. Tanya Jawab
-6. Laporan
-7. Penutup - MC
+1. Pembukaan - MC
+2. Quran
+3. Kultum - Kultum
+4. Hadits Arbain - Hadits
+5. Materi Murobbi
+6. Tanya Jawab
+7. Laporan
+8. Penutup - MC
 
 ## Kultum
 - [ ] 10 Sahabat yang Dijamin Masuk Surga
