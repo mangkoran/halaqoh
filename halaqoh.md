@@ -30,7 +30,7 @@
 - [ ] Keutamaan Khatam Quran
 - [ ] 5 Kisah Taubat
 
-## Schedule
+## Task
 | Date | MC   | Kultum | Hadits | Subs |
 |------|------|--------|--------|------|
 | 1/1  | Baim | Afiq   | Fadhil | Fiko |
