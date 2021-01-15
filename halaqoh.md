@@ -41,4 +41,4 @@
 | Date | Tilawah | Hadits | Materi | Note |
 |------|---------|--------|--------|--------|
 | 1/1  | Al Baqoroh 282 | Hadits 1 | Kebutuhan Manusia Terhadap Rasul | |
-| 1/8  | Ali Imron 32   | Hadits 2 | Ta'riful Ar-Rasul |  |
+| 1/8  | Ali Imron 32   | Hadits 2 | Tarifu Ar-Rasul |  |
