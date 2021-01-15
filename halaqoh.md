@@ -20,7 +20,7 @@
 
 ## Kultum
 - [x] 10 Sahabat yang Dijamin Masuk Surga - 1/1
-- [ ] Bersyukur
+- [x] Bersyukur
 - [ ] Keutaman Salam
 - [ ] Menjauhi Tempat Haram
 - [ ] Keutamaan Adzan
@@ -35,9 +35,10 @@
 |------|------|--------|--------|------|
 | 1/1  | Baim | Afiq   | Fadhil | Fiko |
 | 1/8  | Afiq | Fadhil | Fiko   | Tebe |
+| 1/15 | Fadhil | Fiko | Tebe   | Rafif|
 
 ## Log
 | Date | Tilawah | Hadits | Materi | Note |
 |------|---------|--------|--------|--------|
-| 1/1  | Al Baqoroh 282 | Hadits 1 | Kebutuhan Manusia Terhadap Rasul | - |
-| 1/8  |  |  |  |  |
+| 1/1  | Al Baqoroh 282 | Hadits 1 | Kebutuhan Manusia Terhadap Rasul | |
+| 1/8  | Ali Imron 32   | Hadits 2 | Ta'riful Ar-Rasul |  |
