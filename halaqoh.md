@@ -21,7 +21,7 @@
 ## Kultum
 - [x] 10 Sahabat yang Dijamin Masuk Surga - 1/1
 - [x] Bersyukur
-- [ ] Keutaman Salam
+- [x] Keutaman Salam
 - [ ] Menjauhi Tempat Haram
 - [ ] Keutamaan Adzan
 - [ ] Keutamaan Solat Jamaah
