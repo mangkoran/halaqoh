@@ -22,7 +22,7 @@
 - [x] 10 Sahabat yang Dijamin Masuk Surga - 1/1
 - [x] Bersyukur
 - [x] Keutaman Salam
-- [ ] Menjauhi Tempat Haram
+- [x] Menjauhi Tempat Haram
 - [ ] Keutamaan Adzan
 - [ ] Keutamaan Solat Jamaah
 - [ ] Keutamman Solat Sunnah
@@ -37,10 +37,12 @@
 | 1/8  | Afiq | Fadhil | Fiko   | Tebe |
 | 1/15 | Fadhil | Fiko | Tebe   | Rafif|
 | 1/22 | Fiko | Tebe   | Rafif  | Baim |
+| 1/29 | Tebe | Rafif  | Baim   | Afiq |
 
 ## Log
 | Date | Tilawah | Hadits | Materi | Note |
 |------|---------|--------|--------|--------|
 | 1/1  | Al Baqoroh 282 | Hadits 1 | Kebutuhan Manusia Terhadap Rasul | |
-| 1/8  | Ali Imron 29   | Hadits 2 | Tarifu Ar-Rasul |  |
-| 1/15  | Ali Imron 61   | Hadits 3 | Sifat Ar-Rasul | Berhalangan: Fadhil, Rafif, Baim |
+| 1/8  | Ali Imron 29   | Hadits 2 | Tarifu Ar-Rasul | |
+| 1/15  | Ali Imron 61  | Hadits 3 | Sifat Ar-Rasul | Berhalangan: Fadhil, Rafif, Baim |
+| 1/22  | Ali Imron 108 | Hadits 4 | Dakwah Rasul | Berhalangan: Rafif |
