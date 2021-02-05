@@ -31,8 +31,8 @@
 - [ ] 5 Kisah Taubat
 
 ## Penugasan
-| Date | MC   | Kultum | Hadits | Subs |
-|------|------|--------|--------|------|
+| Date | MC   | Kultum | Hadits | Pengganti |
+|------|------|--------|--------|-----------|
 | 1/1  | Baim | Afiq   | Fadhil | Fiko |
 | 1/8  | Afiq | Fadhil | Fiko   | Tebe |
 | 1/15 | Fadhil | Fiko | Tebe   | Rafif|
@@ -42,10 +42,10 @@
 
 ## Riwayat
 | Date | Tilawah | Hadits | Materi | Note |
-|------|---------|--------|--------|--------|
+|------|---------|--------|--------|------|
 | 1/1  | Al Baqoroh 282 | Hadits 1 | Kebutuhan Manusia Terhadap Rasul | |
 | 1/8  | Ali Imron 29   | Hadits 2 | Tarifu Ar-Rasul | |
-| 1/15  | Ali Imron 61  | Hadits 3 | Sifat Ar-Rasul | Berhalangan: Fadhil, Rafif, Baim |
-| 1/22  | Ali Imron 108 | Hadits 4 | Dakwah Rasul | Berhalangan: Rafif |
-| 1/30  | Ali Imron 153 | Hadits 5 | Kewajiban Terhadap Rasul | Berhalangan: Baim; Kultum: Berbakti Kepada Ortu |
-| 1/30  | Ali Imron 153 | Hadits 5 | Kewajiban Terhadap Rasul | Berhalangan: Baim; Kultum: Berbakti Kepada Ortu |
+| 1/15 | Ali Imron 61  | Hadits 3 | Sifat Ar-Rasul | Berhalangan: Fadhil, Rafif, Baim |
+| 1/22 | Ali Imron 108 | Hadits 4 | Dakwah Rasul | Berhalangan: Rafif |
+| 1/30 | Ali Imron 153 | Hadits 5 | Kewajiban Terhadap Rasul | Berhalangan: Baim; Kultum: Berbakti Kepada Ortu |
+| 2/5  | Ali Imron 153 | Hadits 5 | Kewajiban Terhadap Rasul | Berhalangan: Baim; Kultum: Berbakti Kepada Ortu |
