@@ -38,6 +38,7 @@
 | 1/15 | Fadhil | Fiko | Tebe   | Rafif|
 | 1/22 | Fiko | Tebe   | Rafif  | Baim |
 | 1/30 | Tebe | Rafif  | Baim   | Afiq |
+| 2/5  | Rafif| Baim   | Afiq   | Fadhil|
 
 ## Log
 | Date | Tilawah | Hadits | Materi | Note |
@@ -46,4 +47,5 @@
 | 1/8  | Ali Imron 29   | Hadits 2 | Tarifu Ar-Rasul | |
 | 1/15  | Ali Imron 61  | Hadits 3 | Sifat Ar-Rasul | Berhalangan: Fadhil, Rafif, Baim |
 | 1/22  | Ali Imron 108 | Hadits 4 | Dakwah Rasul | Berhalangan: Rafif |
+| 1/30  | Ali Imron 153 | Hadits 5 | Kewajiban Terhadap Rasul | Berhalangan: Baim; Kultum: Berbakti Kepada Ortu |
 | 1/30  | Ali Imron 153 | Hadits 5 | Kewajiban Terhadap Rasul | Berhalangan: Baim; Kultum: Berbakti Kepada Ortu |
