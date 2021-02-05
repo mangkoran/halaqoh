@@ -1,6 +1,6 @@
-# Halaqoh Ust Sulkhan
+# Halaqoh Ust Sulkhan Nurfatih
 
-## Members
+## Anggota
 1. Muhammad Faris Ibrahim **(Baim)** - Ketua
 2. **Afiq** Nazrie Rabbani - Sekretaris
 3. **Fadhil**lah Rahmat Khairani
@@ -8,7 +8,7 @@
 5. Tubagus Fauzan **(Tebe)**
 6. Muhammad **Rafif** Azhari
 
-## Rundown
+## Agenda
 1. Pembukaan - MC
 2. Quran
 3. Kultum - Kultum
@@ -30,7 +30,7 @@
 - [ ] Keutamaan Khatam Quran
 - [ ] 5 Kisah Taubat
 
-## Task
+## Penugasan
 | Date | MC   | Kultum | Hadits | Subs |
 |------|------|--------|--------|------|
 | 1/1  | Baim | Afiq   | Fadhil | Fiko |
@@ -40,7 +40,7 @@
 | 1/30 | Tebe | Rafif  | Baim   | Afiq |
 | 2/5  | Rafif| Baim   | Afiq   | Fadhil|
 
-## Log
+## Riwayat
 | Date | Tilawah | Hadits | Materi | Note |
 |------|---------|--------|--------|--------|
 | 1/1  | Al Baqoroh 282 | Hadits 1 | Kebutuhan Manusia Terhadap Rasul | |
