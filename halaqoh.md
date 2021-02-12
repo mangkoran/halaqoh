@@ -23,7 +23,7 @@
 - [x] Bersyukur
 - [x] Keutaman Salam
 - [x] Menjauhi Tempat Haram
-- [ ] Keutamaan Adzan
+- [x] Keutamaan Adzan
 - [ ] Keutamaan Solat Jamaah
 - [ ] Keutamman Solat Sunnah
 - [ ] Keutamaan Tilawah
