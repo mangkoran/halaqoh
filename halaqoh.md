@@ -25,9 +25,9 @@
 - [x] Menjauhi Tempat Haram - 1/30
 - [x] Keutamaan Adzan - 2/5
 - [x] Keutamaan Solat Jamaah - 2/12
-- [x] Keutamman Solat Sunnah
-- [ ] Keutamaan Tilawah
-- [ ] Keutamaan Khatam Quran
+- [x] Keutamman Solat Sunnah - 2/19
+- [x] Keutamaan Tilawah - 2/26
+- [ ] Keutamaan Khatam Quran - 3/5
 - [ ] 5 Kisah Taubat
 
 ## Penugasan
@@ -42,6 +42,8 @@
 | 2/12 | Baim  | Afiq   | Fadhil | Fiko |
 | 2/19 | Afiq  | Fadhil | Fiko   | Tebe |
 | 2/26 | Fadhil| Fiko   | Tebe   | Rafif|
+| 3/5  | Fiko  | Tebe   | Rafif  | Baim |
+| 3/12 | Tebe   | Rafif  | Baim  | Afiq |
 
 ## Riwayat
 | Date | Tilawah       | Hadits   | Materi | Note |
@@ -54,3 +56,5 @@
 | 2/5  | Ali Imron 194 | Hadits 6 | Islam | Berhalangan: Fadhil |
 | 2/12 | An Nisa 19    | -        | Syumuliyyatul Islam / Kemuliaan Islam | Berhalangan: Baim, Fadhil |
 | 2/19 | An Nisa 37    | Hadits 7 | Akhlak Islami | Berhalangan: Baim, Rafif, Tebe |
+| 2/26 | An Nisa 79    | Hadits 8 | Akhlak Islami pt. 2 | Berhalangan: Fadhil |
+| 3/5  | An Nisa 101   | Hadits 9 | Umat Islam | Berhalangan: Baim, Fadhil, Rafif |
