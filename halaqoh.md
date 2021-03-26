@@ -21,7 +21,7 @@
 ## Kultum
 - [x] 10 Sahabat yang Dijamin Masuk Surga - 1/1
 - [x] Bersyukur - 1/8
-- [ ] Keutaman Salam
+- [x] Keutaman Salam - 3/12
 - [x] Menjauhi Tempat Haram - 1/30
 - [x] Keutamaan Adzan - 2/5
 - [x] Keutamaan Solat Jamaah - 2/12
@@ -43,7 +43,8 @@
 | 2/19 | Afiq  | Fadhil | Fiko   | Tebe |
 | 2/26 | Fadhil| Fiko   | Tebe   | Rafif|
 | 3/5  | Fiko  | Tebe   | Rafif  | Baim |
-| 3/12 | Tebe   | Rafif  | Baim  | Afiq |
+| 3/12 | Tebe  | Rafif  | Baim   | Afiq |
+| 3/19 | Rafif | Baim   | Afiq   | Fadhil|
 
 ## Riwayat
 | Date | Tilawah       | Hadits   | Materi | Note |
@@ -58,3 +59,5 @@
 | 2/19 | An Nisa 37    | Hadits 7 | Akhlak Islami | Berhalangan: Baim, Rafif, Tebe |
 | 2/26 | An Nisa 79    | Hadits 8 | Akhlak Islami pt. 2 | Berhalangan: Fadhil |
 | 3/5  | An Nisa 101   | Hadits 9 | Umat Islam | Berhalangan: Baim, Fadhil, Rafif |
+| 3/12 | An Nisa 134   | Hadits 10| Menuju Jamaatul Muslimin | Berhalangan: Fadhil, Tebe |
+| 3/19 | An Nisa 175   | Hadits 10| Menuju Jamaatul Muslimin | Berhalangan: Fadhil, Tebe |
