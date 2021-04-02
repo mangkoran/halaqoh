@@ -62,5 +62,5 @@
 | 2/26 | An Nisa 79    | Hadits 8 | Akhlak Islami pt. 2 | Berhalangan: Fadhil |
 | 3/5  | An Nisa 101   | Hadits 9 | Umat Islam | Berhalangan: Baim, Fadhil, Rafif |
 | 3/12 | An Nisa 134   | Hadits 10| Menuju Jamaatul Muslimin | Berhalangan: Fadhil, Tebe |
-| 3/19 | An Nisa 175   | Hadits 11| Menuju Jamaatul Muslimin | Berhalangan: Fadhil, Tebe |
-| 3/26 | Al Maidah 17  | Hadits 12| Menuju Jamaatul Muslimin | Berhalangan: Tebe, Rafif |
+| 3/19 | An Nisa 175   | Hadits 11| | Berhalangan: Fadhil, Tebe |
+| 3/26 | Al Maidah 17  | Hadits 12| | Berhalangan: Tebe, Rafif |
