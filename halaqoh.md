@@ -27,8 +27,8 @@
 - [x] Keutamaan Solat Jamaah - 2/12
 - [x] Keutamman Solat Sunnah - 2/19
 - [x] Keutamaan Tilawah - 2/26
-- [ ] Keutamaan Khatam Quran - 3/5
-- [ ] 5 Kisah Taubat
+- [x] Keutamaan Khatam Quran - 3/5
+- [x] 5 Kisah Taubat
 
 ## Penugasan
 | Date | MC    | Kultum | Hadits | Pengganti |
@@ -49,18 +49,20 @@
 | 4/2  | Afiq  | Fadhil | Fiko   | Tebe |
 
 ## Riwayat
-| Date | Tilawah       | Hadits   | Materi | Note |
-|------|---------------|----------|--------|------|
-| 1/1  | Al Baqoroh 282| Hadits 1 | Kebutuhan Manusia Terhadap Rasul | |
-| 1/8  | Ali Imron 29  | Hadits 2 | Tarifu Ar-Rasul | |
-| 1/15 | Ali Imron 61  | Hadits 3 | Sifat Ar-Rasul | Berhalangan: Fadhil, Rafif, Baim |
-| 1/22 | Ali Imron 108 | Hadits 4 | Dakwah Rasul | Berhalangan: Rafif |
-| 1/30 | Ali Imron 153 | Hadits 5 | Kewajiban Terhadap Rasul | Berhalangan: Baim; Kultum: Berbakti Kepada Ortu |
-| 2/5  | Ali Imron 194 | Hadits 6 | Islam | Berhalangan: Fadhil |
-| 2/12 | An Nisa 19    | -        | Syumuliyyatul Islam / Kemuliaan Islam | Berhalangan: Baim, Fadhil |
-| 2/19 | An Nisa 37    | Hadits 7 | Akhlak Islami | Berhalangan: Baim, Rafif, Tebe |
-| 2/26 | An Nisa 79    | Hadits 8 | Akhlak Islami pt. 2 | Berhalangan: Fadhil |
-| 3/5  | An Nisa 101   | Hadits 9 | Umat Islam | Berhalangan: Baim, Fadhil, Rafif |
-| 3/12 | An Nisa 134   | Hadits 10| Menuju Jamaatul Muslimin | Berhalangan: Fadhil, Tebe |
-| 3/19 | An Nisa 175   | Hadits 11| | Berhalangan: Fadhil, Tebe |
-| 3/26 | Al Maidah 17  | Hadits 12| | Berhalangan: Tebe, Rafif |
+| Date | Tilawah        | Hadits    | Materi                                | Note                                            |
+|------|----------------|-----------|---------------------------------------|-------------------------------------------------|
+| 1/1  | Al Baqoroh 282 | Hadits 1  | Kebutuhan Manusia Terhadap Rasul      |                                                 |
+| 1/8  | Ali Imron 29   | Hadits 2  | Tarifu Ar-Rasul                       |                                                 |
+| 1/15 | Ali Imron 61   | Hadits 3  | Sifat Ar-Rasul                        | Berhalangan: Fadhil, Rafif, Baim                |
+| 1/22 | Ali Imron 108  | Hadits 4  | Dakwah Rasul                          | Berhalangan: Rafif                              |
+| 1/30 | Ali Imron 153  | Hadits 5  | Kewajiban Terhadap Rasul              | Berhalangan: Baim; Kultum: Berbakti Kepada Ortu |
+| 2/5  | Ali Imron 194  | Hadits 6  | Islam                                 | Berhalangan: Fadhil                             |
+| 2/12 | An Nisa 19     | -         | Syumuliyyatul Islam / Kemuliaan Islam | Berhalangan: Baim, Fadhil                       |
+| 2/19 | An Nisa 37     | Hadits 7  | Akhlak Islami                         | Berhalangan: Baim, Rafif, Tebe                  |
+| 2/26 | An Nisa 79     | Hadits 8  | Akhlak Islami pt. 2                   | Berhalangan: Fadhil                             |
+| 3/5  | An Nisa 101    | Hadits 9  | Umat Islam                            | Berhalangan: Baim, Fadhil, Rafif                |
+| 3/12 | An Nisa 134    | Hadits 10 | Menuju Jamaatul Muslimin              | Berhalangan: Fadhil, Tebe                       |
+| 3/19 | An Nisa 175    | Hadits 11 |                                       | Berhalangan: Fadhil, Tebe                       |
+| 3/26 | Al Maidah 17   | Hadits 12 | Tujuan Manusia                        | Berhalangan: Tebe, Rafif                        |
+| 4/2  | Al Maidah 41   | Hadits 13 | Hakikat Manusia                       | Berhalangan: Baim, Tebe, Rafif                  |
+|      |                |           |                                       |                                                 |
