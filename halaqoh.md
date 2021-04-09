@@ -48,6 +48,7 @@
 | 3/26 | Baim   | Afiq   | Fadhil | Fiko      |
 | 4/2  | Afiq   | Fadhil | Fiko   | Tebe      |
 | 4/9  | Fadhil | Fiko   | Tebe   | Rafif     |
+| 4/13 | Fiko   | Tebe   | Rafif  | Baim      |
 |      |        |        |        |           |
 
 ## Riwayat
@@ -67,4 +68,5 @@
 | 3/19 | An Nisa 175    | Hadits 11 |                                       | Berhalangan: Fadhil, Tebe                       |
 | 3/26 | Al Maidah 17   | Hadits 12 | Tujuan Manusia                        | Berhalangan: Tebe, Rafif                        |
 | 4/2  | Al Maidah 41   | Hadits 13 | Hakikat Manusia                       | Berhalangan: Baim, Tebe, Rafif                  |
+| 4/9  | Al Maidah 70   | Hadits 14 | Jiwa Manusia                          | Berhalangan: Fadhil, Tebe                       |
 |      |                |           |                                       |                                                 |
