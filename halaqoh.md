@@ -31,22 +31,24 @@
 - [x] 5 Kisah Taubat
 
 ## Penugasan
-| Date | MC    | Kultum | Hadits | Pengganti |
-|------|------ |--------|--------|-----------|
-| 1/1  | Baim  | Afiq   | Fadhil | Fiko |
-| 1/8  | Afiq  | Fadhil | Fiko   | Tebe |
-| 1/15 | Fadhil| Fiko   | Tebe   | Rafif|
-| 1/22 | Fiko  | Tebe   | Rafif  | Baim |
-| 1/30 | Tebe  | Rafif  | Baim   | Afiq |
-| 2/5  | Rafif | Baim   | Afiq   | Fadhil|
-| 2/12 | Baim  | Afiq   | Fadhil | Fiko |
-| 2/19 | Afiq  | Fadhil | Fiko   | Tebe |
-| 2/26 | Fadhil| Fiko   | Tebe   | Rafif|
-| 3/5  | Fiko  | Tebe   | Rafif  | Baim |
-| 3/12 | Tebe  | Rafif  | Baim   | Afiq |
-| 3/19 | Rafif | Baim   | Afiq   | Fadhil|
-| 3/26 | Baim  | Afiq   | Fadhil | Fiko |
-| 4/2  | Afiq  | Fadhil | Fiko   | Tebe |
+| Date | MC     | Kultum | Hadits | Pengganti |
+|------|--------|--------|--------|-----------|
+| 1/1  | Baim   | Afiq   | Fadhil | Fiko      |
+| 1/8  | Afiq   | Fadhil | Fiko   | Tebe      |
+| 1/15 | Fadhil | Fiko   | Tebe   | Rafif     |
+| 1/22 | Fiko   | Tebe   | Rafif  | Baim      |
+| 1/30 | Tebe   | Rafif  | Baim   | Afiq      |
+| 2/5  | Rafif  | Baim   | Afiq   | Fadhil    |
+| 2/12 | Baim   | Afiq   | Fadhil | Fiko      |
+| 2/19 | Afiq   | Fadhil | Fiko   | Tebe      |
+| 2/26 | Fadhil | Fiko   | Tebe   | Rafif     |
+| 3/5  | Fiko   | Tebe   | Rafif  | Baim      |
+| 3/12 | Tebe   | Rafif  | Baim   | Afiq      |
+| 3/19 | Rafif  | Baim   | Afiq   | Fadhil    |
+| 3/26 | Baim   | Afiq   | Fadhil | Fiko      |
+| 4/2  | Afiq   | Fadhil | Fiko   | Tebe      |
+| 4/9  | Fadhil | Fiko   | Tebe   | Rafif     |
+|      |        |        |        |           |
 
 ## Riwayat
 | Date | Tilawah        | Hadits    | Materi                                | Note                                            |
