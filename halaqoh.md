@@ -48,7 +48,7 @@
 | 3/26 | Baim   | Afiq   | Fadhil | Fiko      |
 | 4/2  | Afiq   | Fadhil | Fiko   | Tebe      |
 | 4/9  | Fadhil | Fiko   | Tebe   | Rafif     |
-| 4/13 | Fiko   | Tebe   | Rafif  | Baim      |
+| 4/16 | Fiko   | Tebe   | Rafif  | Baim      |
 |      |        |        |        |           |
 
 ## Riwayat
