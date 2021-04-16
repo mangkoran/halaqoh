@@ -21,16 +21,16 @@
 8. Penutup - MC
 
 * Kultum
-** [X] 10 Sahabat yang Dijamin Masuk Surga - 1/1
-** [X] Bersyukur - 1/8
-** [X] Keutaman Salam - 3/12
-** [X] Menjauhi Tempat Haram - 1/30
-** [X] Keutamaan Adzan - 2/5
-** [X] Keutamaan Solat Jamaah - 2/12
-** [X] Keutamman Solat Sunnah - 2/19
-** [X] Keutamaan Tilawah - 2/26
-** [X] Keutamaan Khatam Quran - 3/5
-** [X] 5 Kisah Taubat
+- [X] 10 Sahabat yang Dijamin Masuk Surga - 1/1
+- [X] Bersyukur - 1/8
+- [X] Keutaman Salam - 3/12
+- [X] Menjauhi Tempat Haram - 1/30
+- [X] Keutamaan Adzan - 2/5
+- [X] Keutamaan Solat Jamaah - 2/12
+- [X] Keutamman Solat Sunnah - 2/19
+- [X] Keutamaan Tilawah - 2/26
+- [X] Keutamaan Khatam Quran - 3/5
+- [X] 5 Kisah Taubat
 
 * Penugasan
 |------+--------+--------+--------+-----------|
